@@ -4,19 +4,21 @@ This repository contains two Sql Projects which is done based on client provided
 ## KPI's : Project 1
 
 ### Olist Store Analysis
-Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 
-Number of Orders with review score 5 and payment type as credit card.
+1. Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 
-Average number of days taken for order_delivered_customer_date for pet_shop
+2. Number of Orders with review score 5 and payment type as credit card.
 
-Average price and payment values from customers of sao paulo city
+3. Average number of days taken for order_delivered_customer_date for pet_shop
 
-Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
+4. Average price and payment values from customers of sao paulo city
+
+5. Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 
 ## KPI's : Project 2
 
 ### Healthcare Dialysis Report
+
 1. Number of Patients across various summaries
 
 2. Profit Vs Non-Profit Stats
@@ -25,9 +27,9 @@ Relationship between shipping days (order_delivered_customer_date - order_purcha
 
 4. Dialysis Stations Stats
 
-5. # of Category Text  - As Expected
+5. No of Category Text  - As Expected
 
-6. # of Score Applied – Improvement
+6. No of Score Applied – Improvement
 
 7. Top 3 Facilities in terms of Total Performance Score
 
